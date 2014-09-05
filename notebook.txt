@@ -9,7 +9,7 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 9/03 	MS	22.15	22.24			   4		      9		Failed to sign up for piazza again. Mailed the piazza team my issue.
 9/04	MS	10.10	10.30	     5  	   4		     15		Received Activation link from piazza team. Signed up for piazza
 9/04	MS	22.20	22.30			   6		     10		Uploaded a picture of mine at gravatar.com to appear on github
-====================Committing to git: 05/09 16.40==================================================================
+====================Committing to git: 05/09 16.40========================================================================
 Total Time on Task Q1 (minutes)				12
 Total Time on Task Q2 (minutes)				15
 Total Time on Task Q3 (minutse)				15
