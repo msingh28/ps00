@@ -4,7 +4,7 @@
 #| Purpose: To write the definition of a function that converts a temperature
             from degrees Fahrenheit to degrees Celsius.|#
 
-;*************************FUNCTION*******************************
+;*************************FUNCTION********************************************
 
 ;f->c : Number -> Number
 ;GIVEN: a temperature in degrees Fahrenheit as an argument
@@ -17,8 +17,8 @@
   (/ (* 5 (- tf 32))
      9))
 
-;************************TEST***********************************
+;************************TEST*************************************************
 
 (check-expect (f->c 32) 0)
-(check-within (f->c 100) 37.77777777777778 0.0000000000001)
+(check-within (f->c 100) 37.77777777777778 0.00000000000001)
 (check-expect (f->c  -13) -25)

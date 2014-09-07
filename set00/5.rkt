@@ -7,8 +7,8 @@
 
 ;*********************************FUNCTION************************************
 ; sq : Number -> Number
-;GIVEN: a number as an argument
-;RETURNS: square of the given number
+;GIVEN: a number n as an argument
+;RETURNS: square of the given number n
 ;Examples:
 ;(sq 2) => 4
 ;(sq -4) => 16

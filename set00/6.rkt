@@ -10,7 +10,7 @@
 ;***************************FUNCTION******************************************
 
 ; quadratic-root : NonZeroNumber Number Number -> Number
-; GIVEN: the coefficients of a quadratic equation
+; GIVEN: the coefficients a,b, and c of a quadratic equation
 ; RETURNS: One of the solutions of the quadratic equation
 ; Examples:
 ; (quadratic-root 1 -2 1) => 1
@@ -22,4 +22,4 @@
 ;*************************************TEST************************************
 
 (check-expect (quadratic-root 1 -2 1) 1)
-(check-within (quadratic-root 1 -1 1) #i0.5+0.8660254037844386i 0.0000001)
+(check-within (quadratic-root 1 -1 1) #i0.5+0.8660254037844386i 0)
