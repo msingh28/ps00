@@ -73,3 +73,23 @@ TOTQ3 (hours and tenths)				0.1
 TOTQ4 (hours and tenths)				0.4
 TOTQ5 (hours and tenths)				0.1
 TOTQ6 (hours and tenths)				0.2
+Total Time on Task Ex1 (minutes)			21
+Total Time on Task Ex2 (minutes)			14
+Total Time on Task Ex3 (minutes)			21
+Total Time on Task Ex4 (minutes)			12
+Total Time on Task Ex5 (minutes)			13
+Total Time on Task Ex6 (minutes)			30
+Total Time on Task Ex7 (minutes)			17
+Total Time on Task Ex8 (minutes)			15
+Total Time on Task Ex9 (minutes)			23
+Total Time on Task Ex10 (minutes)			15
+TOTEX1 (hours and tenths)				0.2
+TOTEX2 (hours and tenths)				0.1
+TOTEX3 (hours and tenths)				0.2
+TOTEX4 (hours and tenths)				0.1
+TOTEX5 (hours and tenths)				0.1
+TOTEX6 (hours and tenths)				0.3
+TOTEX7 (hours and tenths)				0.1		
+TOTEX8 (hours and tenths)				0.1
+TOTEX9 (hours and tenths)				0.2
+TOTEX10 (hours and tenths)				0.1
