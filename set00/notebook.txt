@@ -31,7 +31,19 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 09/06	MS	17.39	17.45			   Ex4		      6		Function for Ex4
 09/06	MS	17.46	17.50			   Ex4		      4		Tests for the function. **Ex4 finished**
 
-=====================Committing to git: 09/06   20.22================================================================================= 
+=====================Committing to git: 09/06   20.22=================================================================================
+
+09/06 	MS	20.30	20.33			   Ex5		      3		Analysis of Ex5
+09/06	MS	20.34	20.42 			   Ex5		      8		Function for Ex5
+09/06	MS	20.43	20.44			   Ex5		      2		Tests for the function. **Ex5 finished**
+09/06	MS 	20.45	20.49			   EX6		      4		Analysis of Ex6
+09/06	MS	20.50	21.05			   Ex6		     15		Function for Ex6
+09/06	MS	21.06 	21.15			   Ex6		      9		Test for the functions. Oops both the tests failed. Error in example.
+09/06	MS	21.16	21.18			   Ex6		      2		Error in example fixed. Test fixed. **Ex6 finished**
+
+======================Committing to git: 09/06	21.35===============================================================================
+
+======
 
 Total Time on Task Q1 (minutes)				12
 Total Time on Task Q2 (minutes)				15
