@@ -9,19 +9,19 @@
             otherwise. |#
 
 ;**************************************PREDICATE******************************
-; even-num?: Number -> Boolean
+; is-even?: Number -> Boolean
 ; GIVEN: a number
 ; RESULT: true if the number is divisible by 2, and false otherwise
 ; Examples:
-;(even-num? 4) => true
-;(even-num? 5) => false
+;(is-even? 4) => true
+;(is-even? 5) => false
 ; remainder operator is used to find out whether the number is divisible by 2
 ; or not. If remainder is 0 then the number is divisible by 2.
 
-(define (even-num? n)
+(define (is-even? n)
   (= (remainder n 2) 0))
 
 ;**********************************TEST***************************************
 
-(check-expect (even-num? 4) true)
-(check-expect (even-num? 5) false)
+(check-expect (is-even? 4) true)
+(check-expect (is-even? 5) false)
