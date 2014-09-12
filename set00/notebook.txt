@@ -72,6 +72,25 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 
 =====================Committing to git: 09/07	01.28==============================================================================
 
+09/11	MS	23.46	23.50			  EX11		       4        Analysis of Ex11
+09/11	MS	23.51	23.57			  Ex11		       6	Contracts for the point function. **Ex11 finished**
+09/11	MS	23.59	00.05			  Ex12		       6	Analysis of Ex12 
+09/12	MS	00.06	00.09			  Ex12		       3	Values for the given expressions. **Ex12 finished**
+09/12	MS	00.11	00.14			  Ex13		       3	Analysis of Ex13
+09/12	MS	00.15	00.17			  Ex13		       2	Values for the given expressions. **Ex13 finished**
+09/12	MS	00.18	00.22 			  Ex14		       4	Analysis of Ex14
+09/12	MS	00.23	00.30			  Ex14		       7	Functions for the structure. **Ex14 finished**
+09/12	MS	00.31	00.35			  Ex15		       4	Analysis of Ex15
+09/12	MS	00.37	00.48	    5   	  Ex15		       4	Comments for the definition of struct-student.
+										**Ex15 finished**
+09/12	MS	00.51	00.55			  Ex16		       4	Analysis of Ex16
+09/12	MS	00.56	01.15			  Ex16		      19	Played around various image fuctions.
+										**Ex16 finished**
+09/12	MS	01.16	01.20			  Ex17		       4	Analysis of Ex17
+09/12	MS	01.21	01.23			  Ex17		       2	Created rectangles of the given dimension.
+										**Ex17 finished**
+====================Committing to git: 09/12	01.28=============================================================================
+
 Total Time on Task Q1 (minutes)				12
 Total Time on Task Q2 (minutes)				15
 Total Time on Task Q3 (minutse)				15
