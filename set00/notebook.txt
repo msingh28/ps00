@@ -91,6 +91,22 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 										**Ex17 finished**
 ====================Committing to git: 09/12	01.28=============================================================================
 
+09/12	MS	13.40	13.45			  Ex18		       5	Analysed Ex18.
+09/12	MS	13.46	13.50			  Ex18		       4	Worked on the expressions and formula.
+09/12	MS	13.51	13.58			  Ex18		       7	Worked on the code and tests.
+09/12	MS	13.59	14.02			  Ex18		       3	Tests were successfully executed.
+										**Ex18 finished**
+09/12	MS	14.03	14.07			  Ex19		       4	Analysed Ex19.
+09/12	MS	14.08	14.25	    5		  Ex19		      12	Worked on the function definition and code.
+09/12	MS	14.26	14.30			  Ex19		       4	Tests successfully executed.
+										**Ex19 finished**
+09/12	MS	14.31	14.35			  Ex20		       4        Analysed Ex20.
+09/12	MS	14.36	14.50			  Ex20		      14	Worked on the design of the human shape.
+09/12	MS	14.50	15.10	    10		  Ex20		      10	Successfully assembeled the shape. Used the 
+										stepper to understand the image assembled 
+										by Dr Racket.**Ex20 finished**.
+========================Commmitting to git: 09/12 15.25===========================================================================
+										
 Total Time on Task Q1 (minutes)				12
 Total Time on Task Q2 (minutes)				15
 Total Time on Task Q3 (minutse)				15
@@ -120,6 +136,9 @@ Total Time on Task Ex14 (minutes)			11
 Total Time on Task Ex15 (minutes)			 8
 Total Time on Task Ex16 (minutes)			23
 Total Time on Task Ex17 (minutes)			 6
+Total Time on Task Ex18 (minutes)			19
+Total Time on Task Ex19 (minutes)			20
+Total Time on Task Ex20 (minutes)			28
 TOTEX1 (hours and tenths)				0.2
 TOTEX2 (hours and tenths)				0.1
 TOTEX3 (hours and tenths)				0.2
@@ -137,3 +156,7 @@ TOTEX14 (hours and tenths)				0.1
 TOTEX15 (hours and tenths)				0.1
 TOTEX16 (hours and tenths)				0.2
 TOTEX17 (hours and tenths)				0.1
+TOTEX18 (hours and tenths)				0.3
+TOTEX19 (hours and tenths)				0.3
+TOTEX20 (hours and tenths)				0.5
+
