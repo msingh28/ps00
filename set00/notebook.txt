@@ -113,6 +113,13 @@ Total Time on Task Ex7 (minutes)			17
 Total Time on Task Ex8 (minutes)			15
 Total Time on Task Ex9 (minutes)			23
 Total Time on Task Ex10 (minutes)			15
+Total Time on Task Ex11 (minutes)			10
+Total Time on Task Ex12 (minutes)			 9
+Total Time on Task Ex13 (minutes)			 5
+Total Time on Task Ex14 (minutes)			11
+Total Time on Task Ex15 (minutes)			 8
+Total Time on Task Ex16 (minutes)			23
+Total Time on Task Ex17 (minutes)			 6
 TOTEX1 (hours and tenths)				0.2
 TOTEX2 (hours and tenths)				0.1
 TOTEX3 (hours and tenths)				0.2
@@ -123,3 +130,10 @@ TOTEX7 (hours and tenths)				0.1
 TOTEX8 (hours and tenths)				0.1
 TOTEX9 (hours and tenths)				0.2
 TOTEX10 (hours and tenths)				0.1
+TOTEX11 (hours and tenths)				0.1
+TOTEX12 (hours and tenths)				0.1
+TOTEX13 (hours and tenths)				0.1
+TOTEX14 (hours and tenths)				0.1
+TOTEX15 (hours and tenths)				0.1
+TOTEX16 (hours and tenths)				0.2
+TOTEX17 (hours and tenths)				0.1
