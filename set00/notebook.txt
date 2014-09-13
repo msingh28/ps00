@@ -106,6 +106,13 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 										stepper to understand the image assembled 
 										by Dr Racket.**Ex20 finished**.
 ========================Commmitting to git: 09/12 15.25===========================================================================
+
+09/12	MS	23.05	23.10			  Ex21			5	Analysed the problem in Ex21.
+09/12	MS	23.12	23.20			  Ex21			8	Wored on the function definition and code.
+09/12	MS	23.25	23.55			  Ex21		       20	Worked on the helper functions.
+09/12	MS	23.56	23.58			  Ex21			2	Tests successfully executed. **Ex21 finished**
+
+=========================Committing to git: 09/12  23.59========================================================================
 										
 Total Time on Task Q1 (minutes)				12
 Total Time on Task Q2 (minutes)				15
@@ -139,6 +146,7 @@ Total Time on Task Ex17 (minutes)			 6
 Total Time on Task Ex18 (minutes)			19
 Total Time on Task Ex19 (minutes)			20
 Total Time on Task Ex20 (minutes)			28
+Total Time on Task Ex21 (minutes)			53
 TOTEX1 (hours and tenths)				0.2
 TOTEX2 (hours and tenths)				0.1
 TOTEX3 (hours and tenths)				0.2
@@ -159,4 +167,6 @@ TOTEX17 (hours and tenths)				0.1
 TOTEX18 (hours and tenths)				0.3
 TOTEX19 (hours and tenths)				0.3
 TOTEX20 (hours and tenths)				0.5
+TOTEX21 (hours and tenths)				0.9
+
 
