@@ -3,6 +3,8 @@
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname |21|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 
 (require 2htdp/image)
+(require "extras.rkt")
+(provide person-image)
 
 ;; PURPOSE: To write down the data definition of the struct person, and 
 ;;          to write the function person-image that takes a person as 

@@ -10,14 +10,27 @@
 ;;******************************FUNCTION****************************************
 (require 2htdp/image)
 
-;; stringdisp : ListOfListOfStrings -> Image
+;; stringlist : ListOfListOfStrings -> Image
     ;; GIVEN : a list of list of strings
     ;; RETURNS : a string that contains each of the lists of strings as a line
     ;;           in a text and renders the whole text as an image. 
     ;; Examples: 
-    ;; (stringdisp (list "Hi" "John") (list "How" "are" "you?")
+    ;; (stringlist (list "Hi" "John") (list "Welcome" "back")
     ;; => Hi John
-    ;;    How are you?
+    ;;    Welcome back
+
+(define (stringlist lst)
+   (cond 
+      [(empty? lst) empty-image]
+      [else (above (stringdisp (first lst))
+                    (stringlist (rest lst)))]))
+
+;; stringdisp : listOfStrings -> Image
+    ;; GIVEN : a list of strings
+    ;; RETURNS : a string that contains all strings in the list searated 
+    ;;           spaces.
+    ;; Examples: 
+    ;; (stringdisp (list "Hi" "John")) = Hi John
 
 (define (stringdisp lst)
    (cond 
@@ -27,4 +40,4 @@
 
 ;;*****************************TEST****************************************
 
-(check-expect (stringdisp (list "Hi" "John")) (text "Hi John " 12 "black"))
+(stringlist (list (list "Hi" "John") (list "Welcome" "back")))

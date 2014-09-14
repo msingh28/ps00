@@ -9,19 +9,23 @@
 
 ;;******************************FUNCTION************************************
 
-
+(require 2htdp/image)
+(require htdp/draw)
 ;; stringdisp : listOfStrings -> Image
     ;; GIVEN : a list of strings
     ;; RETURNS : a string that contains all strings in the list searated 
     ;;           spaces.
     ;; Examples: 
     ;; (stringdisp (list "Hi" "John")) = Hi John
-
 (define (stringdisp lst)
    (cond 
-      [(empty? lst) ""]
-      [else (string-append (first lst) " " (stringdisp (rest lst)))]))
+      [(empty? lst) (text "" 12 "black")]
+      [else (overlay/xy 
+             (text (first lst) 12 "black") 15 0 (stringdisp (rest lst)))]))
+
 
 ;;*****************************TEST****************************************
 
-(check-expect (stringdisp (list "Hi" "John")) "Hi John ")
+(check-expect (stringdisp (list "Hi" "John")) (text "Hi John" 12 "black"))
+(stringdisp (list "Hi" "John"))
+

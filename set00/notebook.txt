@@ -144,6 +144,25 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 09/14	MS	02.12	02.15			  Ex21a		        3  	Working on solution of the problem.
 
 ===========================Committing to git: 09/14 02.15======================================================================
+
+09/14	MS	15.50	15.58			  Ex28			8	Worked on the code and test.
+09/14	MS	15.58	16.00			  Ex28			2	Successfully tested the function. 
+										**Ex28 finished**
+09/14	MS	16.01	16.04			  Ex30			3	Analysed the problem in Ex30.
+09/14	MS	16.07	16.18			  Ex30		       11  	Worked on the function design and code.
+09/14	MS	16.20	16.23			  Ex30			3	Successfully tested the function. 
+										**Ex30 finished**
+09/14	MS	16.25	16.28			  Ex31			3	Analysed the problem in Ex31.
+09/14	MS	16.30	16.40			  Ex31		       10  	Worked on the function design and code.
+09/14	MS	16.42	16.44			  Ex31			2	Successfully tested the function. 
+										**Ex31 finished**
+09/14	MS	16.45	16.49			  Ex32			4	Analysed the problem in Ex32.
+09/14	MS	16.50	16.58			  Ex32		        8  	Worked on the function design and code.
+09/14	MS	16.59	17.02			  Ex32			3	Successfully tested the function. 
+										**Ex32 finished**
+
+===========================Committing to git : 09/14 17.19=====================================================================
+
 						
 Total Time on Task Q1 (minutes)				12
 Total Time on Task Q2 (minutes)				15
@@ -185,6 +204,10 @@ Total Time on Task Ex25 (minutes)			29
 Total Time on Task Ex26 (minutes)			21
 Total Time on Task Ex27 (minutes)			20
 Total Time on Task Ex27a (minutes)			 8
+Total Time on Task Ex28 (minutes)			36
+Total Time on Task Ex30 (minutes)			17
+Total Time on Task Ex31 (minutes)			15
+Total Time on Task Ex32 (minutes)			15
 TOTEX1 (hours and tenths)				0.2
 TOTEX2 (hours and tenths)				0.1
 TOTEX3 (hours and tenths)				0.2
@@ -213,6 +236,10 @@ TOTEX25 (hours and tenths)				0.5
 TOTEX26 (hours and tenths)				0.4
 TOTEX27 (hours and tenths)				0.3
 TOTEX27a (hours and tenths)				0.1
+TOTEX28 (hours and tenths)				0.6
+TOTEX30 (hours and tenths)				0.3
+TOTEX31 (hours and tenths)				0.2
+TOTEX32 (hours and tenths)				0.2
 
 
 
