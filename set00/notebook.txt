@@ -113,7 +113,38 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 09/12	MS	23.56	23.58			  Ex21			2	Tests successfully executed. **Ex21 finished**
 
 =========================Committing to git: 09/12  23.59========================================================================
-										
+09/13	MS	23.50	23.53			  Ex22			3	Analysed the Ex22.
+09/13	MS	23.55	23.58			  Ex22			3	Worked on the expression. **Ex22 finished**
+09/14	MS	00.01	00.10       5		  Ex23			4	Analysed the Ex23.
+09/14	MS	00.12	00.15			  Ex23			3	Worked on the expression. **Ex23 finished**
+09/14	MS	00.16	00.21			  Ex24			5	Analysed the problem in Ex24.
+09/14	MS	00.23	00.45			  Ex24		       22  	Worked on the function design and code.
+09/14	MS	00.46	00.50			  Ex24			3	Successfully tested the function.
+										**Ex24 finished**
+09/14	MS	00.52	00.56			  Ex25			4	Analysed the problem in Ex25.
+09/14	MS	00.23	00.45			  Ex25		       22  	Worked on the function design and code.
+09/14	MS	00.46	00.50			  Ex25			3	Successfully tested the function.
+										**Ex25 finished**
+09/14	MS	00.58	01.02			  Ex26			4	Analysed the problem in Ex26.
+09/14	MS	01.05	01.20			  Ex26		       15  	Worked on the function design and code.
+09/14	MS	01.21	01.23			  Ex26			2	Successfully tested the function.
+										**Ex26 finished**
+09/14	MS	01.24	01.30			  Ex27			6	Analysed the problem in Ex27.
+09/14	MS	01.33	01.45			  Ex27		       12  	Worked on the function design and code.
+09/14	MS	01.46	01.48			  Ex27			2	Successfully tested the function.
+										**Ex27 finished**
+09/14	MS	01.50	01.52			  Ex27a			2	Analysed the problem in Ex27a.
+09/14	MS	01.53	01.57			  Ex27a		        4  	Worked on the function design and code.
+09/14	MS	01.58	02.00			  Ex27a			2	Successfully tested the function.
+										**Ex27a finished**
+09/14	MS	02.01	02.04			  Ex28			3	Analysed the problem in Ex28.
+09/14	MS	02.05	02.08			  Ex28		       23  	Thinking about the function design and code.
+										started to think about Ex21a.
+09/14	MS	02.09	02.11			  Ex21a			2	Analysed the problem in Ex21a.
+09/14	MS	02.12	02.15			  Ex21a		        3  	Working on solution of the problem.
+
+===========================Committing to git: 09/14 02.15======================================================================
+						
 Total Time on Task Q1 (minutes)				12
 Total Time on Task Q2 (minutes)				15
 Total Time on Task Q3 (minutse)				15
@@ -147,6 +178,13 @@ Total Time on Task Ex18 (minutes)			19
 Total Time on Task Ex19 (minutes)			20
 Total Time on Task Ex20 (minutes)			28
 Total Time on Task Ex21 (minutes)			53
+Total Time on Task Ex22 (minutes)			 6
+Total Time on Task Ex23 (minutes)			 7
+Total Time on Task Ex24 (minutes)			30
+Total Time on Task Ex25 (minutes)			29
+Total Time on Task Ex26 (minutes)			21
+Total Time on Task Ex27 (minutes)			20
+Total Time on Task Ex27a (minutes)			 8
 TOTEX1 (hours and tenths)				0.2
 TOTEX2 (hours and tenths)				0.1
 TOTEX3 (hours and tenths)				0.2
@@ -168,5 +206,14 @@ TOTEX18 (hours and tenths)				0.3
 TOTEX19 (hours and tenths)				0.3
 TOTEX20 (hours and tenths)				0.5
 TOTEX21 (hours and tenths)				0.9
+TOTEX22 (hours and tenths)				0.1
+TOTEX23 (hours and tenths)				0.1
+TOTEX24 (hours and tenths)				0.5
+TOTEX25 (hours and tenths)				0.5
+TOTEX26 (hours and tenths)				0.4
+TOTEX27 (hours and tenths)				0.3
+TOTEX27a (hours and tenths)				0.1
+
+
 
 
