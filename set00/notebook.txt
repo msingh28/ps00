@@ -170,12 +170,12 @@ Total Time on Task Q3 (minutse)				15
 Total Time on Task Q4 (minutes)				44
 Total Time on Task Q5 (minutes)				 9
 Total Time on Task Q6 (minutes)				21
-TOTQ1 (hours and tenths)				0.1
-TOTQ2 (hours and tenths)				0.1
-TOTQ3 (hours and tenths)				0.1
-TOTQ4 (hours and tenths)				0.4
-TOTQ5 (hours and tenths)				0.1
-TOTQ6 (hours and tenths)				0.2
+TOTQ1 (hours and tenths)				0.2
+TOTQ2 (hours and tenths)				0.2
+TOTQ3 (hours and tenths)				0.2
+TOTQ4 (hours and tenths)				0.7
+TOTQ5 (hours and tenths)				0.2
+TOTQ6 (hours and tenths)				0.4
 Total Time on Task Ex1 (minutes)			21
 Total Time on Task Ex2 (minutes)			14
 Total Time on Task Ex3 (minutes)			21
@@ -208,25 +208,25 @@ Total Time on Task Ex28 (minutes)			36
 Total Time on Task Ex30 (minutes)			17
 Total Time on Task Ex31 (minutes)			15
 Total Time on Task Ex32 (minutes)			15
-TOTEX1 (hours and tenths)				0.2
-TOTEX2 (hours and tenths)				0.1
-TOTEX3 (hours and tenths)				0.2
-TOTEX4 (hours and tenths)				0.1
-TOTEX5 (hours and tenths)				0.1
-TOTEX6 (hours and tenths)				0.3
-TOTEX7 (hours and tenths)				0.1		
-TOTEX8 (hours and tenths)				0.1
-TOTEX9 (hours and tenths)				0.2
-TOTEX10 (hours and tenths)				0.1
-TOTEX11 (hours and tenths)				0.1
-TOTEX12 (hours and tenths)				0.1
+TOTEX1 (hours and tenths)				0.4
+TOTEX2 (hours and tenths)				0.2
+TOTEX3 (hours and tenths)				0.4
+TOTEX4 (hours and tenths)				0.2
+TOTEX5 (hours and tenths)				0.2
+TOTEX6 (hours and tenths)				0.5
+TOTEX7 (hours and tenths)				0.3		
+TOTEX8 (hours and tenths)				0.2
+TOTEX9 (hours and tenths)				0.4
+TOTEX10 (hours and tenths)				0.2
+TOTEX11 (hours and tenths)				0.2
+TOTEX12 (hours and tenths)				0.2
 TOTEX13 (hours and tenths)				0.1
-TOTEX14 (hours and tenths)				0.1
+TOTEX14 (hours and tenths)				0.2
 TOTEX15 (hours and tenths)				0.1
-TOTEX16 (hours and tenths)				0.2
+TOTEX16 (hours and tenths)				0.4
 TOTEX17 (hours and tenths)				0.1
 TOTEX18 (hours and tenths)				0.3
-TOTEX19 (hours and tenths)				0.3
+TOTEX19 (hours and tenths)				0.5
 TOTEX20 (hours and tenths)				0.5
 TOTEX21 (hours and tenths)				0.9
 TOTEX22 (hours and tenths)				0.1
