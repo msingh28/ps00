@@ -110,7 +110,7 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 09/12	MS	23.05	23.10			  Ex21			5	Analysed the problem in Ex21.
 09/12	MS	23.12	23.20			  Ex21			8	Wored on the function definition and code.
 09/12	MS	23.25	23.55			  Ex21		       20	Worked on the helper functions.
-09/12	MS	23.56	23.58			  Ex21			2	Tests successfully executed. **Ex21 finished**
+09/12	MS	23.56	23.58			  Ex21			2	Tests successfully executed.
 
 =========================Committing to git: 09/12  23.59========================================================================
 09/13	MS	23.50	23.53			  Ex22			3	Analysed the Ex22.
@@ -147,7 +147,6 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 
 09/14	MS	15.50	15.58			  Ex28			8	Worked on the code and test.
 09/14	MS	15.58	16.00			  Ex28			2	Successfully tested the function. 
-										**Ex28 finished**
 09/14	MS	16.01	16.04			  Ex30			3	Analysed the problem in Ex30.
 09/14	MS	16.07	16.18			  Ex30		       11  	Worked on the function design and code.
 09/14	MS	16.20	16.23			  Ex30			3	Successfully tested the function. 
@@ -165,15 +164,25 @@ Date	Who	Start	Stop	Interruptions	Question	Time on Task	Comments
 
 09/14	MS	22.05	22.15			  Ex21a		       10	Worked on the function design and code.
 09/14	MS	22.16	22.18			  Ex21a		        2  	Function executed successfully. 
-										**Ex21a finished**
 09/14	MS	22.30	22.35			  Ex29			5	Analysed the problem in Ex29.
 09/14	MS	22.37	22.45			  Ex29		        8  	Worked on the function design and code.
 09/14	MS	22.46	22.52	     4		  Ex29			2	Function executed successfully. 
-										**Ex29 finished**
 
 ============================Committing to git : 09/14 22.58======================================================================
 
+09/14	MS	23.30	23.40			  Ex21			10	Worked on the test cases. Test Cases executed
+										Successfully. **Ex21 finished**
+09/14	MS	23.41	23.44			  Ex21a			 3	Worked on the test cases. Test Cases executed
+										Successfully. **Ex21a finished**
+09/14	MS	23.45	23.50			  Ex28			 5	Worked on the test cases. Test Cases executed
+										Successfully. **Ex28 finished**
 
+09/14	MS	23.51	23.54			  Ex29			 4	Worked on the test cases. Test Cases executed
+										Successfully. **Ex29 finished**
+
+
+
+============================Committing to git : 09/14 00.01======================================================================
 
 						
 Total Time on Task Q1 (minutes)				12
@@ -208,8 +217,8 @@ Total Time on Task Ex17 (minutes)			 6
 Total Time on Task Ex18 (minutes)			19
 Total Time on Task Ex19 (minutes)			20
 Total Time on Task Ex20 (minutes)			28
-Total Time on Task Ex21 (minutes)			53
-Total Time on Task Ex21a (minutes)			17
+Total Time on Task Ex21 (minutes)			63
+Total Time on Task Ex21a (minutes)			20
 Total Time on Task Ex22 (minutes)			 6
 Total Time on Task Ex23 (minutes)			 7
 Total Time on Task Ex24 (minutes)			30
@@ -217,8 +226,8 @@ Total Time on Task Ex25 (minutes)			29
 Total Time on Task Ex26 (minutes)			21
 Total Time on Task Ex27 (minutes)			20
 Total Time on Task Ex27a (minutes)			 8
-Total Time on Task Ex28 (minutes)			36
-Total Time on Task Ex29 (minutes)			15
+Total Time on Task Ex28 (minutes)			41
+Total Time on Task Ex29 (minutes)			19
 Total Time on Task Ex30 (minutes)			17
 Total Time on Task Ex31 (minutes)			15
 Total Time on Task Ex32 (minutes)			15
@@ -242,7 +251,7 @@ TOTEX17 (hours and tenths)				0.1
 TOTEX18 (hours and tenths)				0.3
 TOTEX19 (hours and tenths)				0.5
 TOTEX20 (hours and tenths)				0.5
-TOTEX21 (hours and tenths)				0.9
+TOTEX21 (hours and tenths)				1.0
 TOTEX21a (hours and tenths)				0.3
 TOTEX22 (hours and tenths)				0.1
 TOTEX23 (hours and tenths)				0.1
@@ -251,8 +260,8 @@ TOTEX25 (hours and tenths)				0.5
 TOTEX26 (hours and tenths)				0.4
 TOTEX27 (hours and tenths)				0.3
 TOTEX27a (hours and tenths)				0.1
-TOTEX28 (hours and tenths)				0.6
-TOTEX29 (hours and tenths)				0.2
+TOTEX28 (hours and tenths)				0.7
+TOTEX29 (hours and tenths)				0.3
 TOTEX30 (hours and tenths)				0.3
 TOTEX31 (hours and tenths)				0.2
 TOTEX32 (hours and tenths)				0.2

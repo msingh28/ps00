@@ -34,10 +34,19 @@
 
 (define (stringdisp lst)
    (cond 
-      [(empty? lst) (text "" 12 "black")]
-      [else (beside (beside (text (first lst) 12 "black") (text " " 12 "black"))
-                    (stringdisp (rest lst)))]))
+      [(empty? lst) empty-image]
+      [else (beside/align "bottom" 
+             (text (first lst) 12 "black") (text " " 12 "white") 
+             (stringdisp (rest lst)))]))
 
 ;;*****************************TEST****************************************
 
-(stringlist (list (list "Hi" "John") (list "Welcome" "back")))
+(check-expect (stringlist (list (list "Hi" "John") (list "Hi" "Jane")))
+                         (above (beside/align "bottom" (text "Hi" 12 "black")
+                                              (text " " 12 "white")
+                                              (text "John" 12 "black")
+                                              (text " " 12 "white") empty-image)
+                                (beside/align "bottom" (text "Hi" 12 "black")
+                                              (text " " 12 "white")
+                                              (text "Jane" 12 "black") 
+                                              (text " " 12 "white") empty-image)))

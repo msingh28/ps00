@@ -41,5 +41,14 @@
 
 ;;**********************************TEST*********************************
 
-(person-image-name (make-person "Jane" "Doe" 30 160 120))
+(check-expect (person-image-name (make-person "Jane" "Doe" 30 160 120))
+              (above (above (beside (rectangle 80 16 "solid" "blue") 
+               (beside (above (circle 40 "solid" "blue") 
+                              (rectangle 80 120 "solid" "red"))
+                       (rectangle 80 16 "solid" "blue"))) 
+         (beside (rectangle 16 120 "solid" "blue") 
+                 (beside (rectangle 16 120 "solid" "white") 
+                         (rectangle 16 120 "solid" "blue"))))
+                     (beside (text "Jane" 24 "red")
+                             (text "Doe" 24 "red"))))
 

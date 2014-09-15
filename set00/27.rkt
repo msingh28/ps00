@@ -27,5 +27,4 @@
 ;;*****************************TEST****************************************
 
 (check-expect (stringdisp (list "Hi" "John")) (text "Hi John" 12 "black"))
-(stringdisp (list "Hi" "John"))
 

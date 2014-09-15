@@ -34,7 +34,7 @@
 ;; GIVEN : A person with a first-name, last-name, age, height, and weight.
 ;; RETURNS : An image that corresponds to the height of the person.
 ;; Examples:
-;; (person-image (make-person("Jane" "Doe" 30 160 120) => Image
+;; (person-image (make-person("Jane" "Doe" 30 160 120)) => Image
 
 (define (person-image p)
   (above (beside (rect1-size 10 2 (person-height p)) 
@@ -109,6 +109,15 @@
 (* 2 (image-height (person-image (make-person "Jane" "Doe" 30 80 100)))))
 (check-expect(image-width (person-image (make-person "Jane" "Doe" 30 160 120)))
 (* 2 (image-width (person-image (make-person "Jane" "Doe" 30 80 100)))))
+(check-expect (person-image (make-person "Jane" "Doe" 30 160 120)) 
+              (above (beside (rectangle 80 16 "solid" "blue") 
+               (beside (above (circle 40 "solid" "blue") 
+                              (rectangle 80 120 "solid" "red"))
+                       (rectangle 80 16 "solid" "blue"))) 
+         (beside (rectangle 16 120 "solid" "blue") 
+                 (beside (rectangle 16 120 "solid" "white") 
+                         (rectangle 16 120 "solid" "blue")))))
+
          
 
 

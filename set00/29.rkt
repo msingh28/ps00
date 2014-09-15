@@ -16,7 +16,7 @@
     ;; RETURNS : a list of Images
     ;; Examples: 
     ;; (person-list (list (make-person "Jane" "Doe" 30 160 120)
-    ;; (make-person "John" "Doe" 30 170 150))) => 
+    ;; (make-person "John" "Doe" 30 200 150))) => 
     ;; Images
 
 
@@ -34,8 +34,24 @@
 
 ;;*****************************TEST****************************************
 
-(person-list (list (make-person "Jane" "Doe" 30 160 120)
-             (make-person "John" "Doe" 30 170 150)))
+(check-expect (person-list (list (make-person "Jane" "Doe" 30 160 120)
+             (make-person "John" "Doe" 30 200 150))) 
+              (beside/align "bottom"
+                            (above (beside (rectangle 80 16 "solid" "blue") 
+               (beside (above (circle 40 "solid" "blue") 
+                              (rectangle 80 120 "solid" "red"))
+                       (rectangle 80 16 "solid" "blue"))) 
+         (beside (rectangle 16 120 "solid" "blue") 
+                 (beside (rectangle 16 120 "solid" "white") 
+                         (rectangle 16 120 "solid" "blue"))))
+                            (above (beside (rectangle 100 20 "solid" "blue") 
+               (beside (above (circle 50 "solid" "blue") 
+                              (rectangle 100 150 "solid" "red"))
+                       (rectangle 100 20 "solid" "blue"))) 
+         (beside (rectangle 20 150 "solid" "blue") 
+                 (beside (rectangle 20 150 "solid" "white") 
+                         (rectangle 20 150 "solid" "blue"))))))
+                            
 
 
 
