@@ -8,6 +8,19 @@
 ;; PURPOSE : To extend the function person-image in Ex 21 such that
 ;;           the full name of the person appears below the image.
 
+;;*******************************DATA DEFINITION************************
+
+;;(define-struct persondata(firstname lastname age height weight))
+;; A Person is a (make-person String String PosInteger PosReal PosReal)
+;; It represents an identity and build of a person.
+;; Interpretation:
+;; first-name = the first-name/given-name of a person.
+;; last-name = the last-name/surname of a person.
+;; age = age of the person in years.
+;; height = height of the person in centimeters.
+;; weight = weight of the person in pounds.
+
+
 ;;*********************************FUNCTION EXTENSION*******************
 
 (require "21.rkt")
@@ -23,6 +36,10 @@
 
 (define (person-image-name p)
   (above (person-image p)
-         (beside (text (person-first-name p)  24 "red") 
-                 (text (person-last-name p) 24 "red"))))
+         (beside (text (person-firstname p)  24 "red") 
+                 (text (person-lastname p) 24 "red"))))
+
+;;**********************************TEST*********************************
+
+(person-image-name (make-person "Jane" "Doe" 30 160 120))
 

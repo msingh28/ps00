@@ -5,30 +5,37 @@
 
 
 
-;; PURPOSE : To design a function that, given a list of booleans,
-;;           returns a list with each boolean reversed
-
+;; PURPOSE : To design a function that takes a list of people and uses the 
+;;           function from Ex21 to draw these people, placing them beside 
+;;           each other to form some kind of a group photo.
 
 ;;******************************FUNCTION************************************
 
-;; neg-list : listOfBooleans -> listOfBooleans
-    ;; GIVEN : a list of booleans
-    ;; RETURNS : a list of booleans with each booleans reversed
+;; person-list : listOfStructure -> listOfImages
+    ;; GIVEN : a list of structure person
+    ;; RETURNS : a list of Images
     ;; Examples: 
-    ;;(neg-list (list true false true)) => 
-    ;;(cons false (cons true (cons false empty)))
+    ;; (person-list (list (make-person "Jane" "Doe" 30 160 120)
+    ;; (make-person "John" "Doe" 30 170 150))) => 
+    ;; Images
 
-(define (neg-list lst)
+
+(require "21.rkt")
+(require 2htdp/image)
+
+(define (person-list lst)
    (cond 
-      [(empty? lst) empty]
-      [else (append (cons (not (first lst)) empty) (neg-list (rest lst)))])) 
+      [(empty? lst) empty-image]
+      [else (beside/align "bottom" (person-image (first lst)) 
+                          (person-list (rest lst)))]))
+
             
 
 
 ;;*****************************TEST****************************************
 
-(check-expect (neg-list (list true false true)) 
-              (cons false (cons true (cons false empty))))
+(person-list (list (make-person "Jane" "Doe" 30 160 120)
+             (make-person "John" "Doe" 30 170 150)))
 
 
 

@@ -5,6 +5,9 @@
 (require 2htdp/image)
 (require "extras.rkt")
 (provide person-image)
+(provide person-firstname)
+(provide person-lastname)
+(provide make-person)
 
 ;; PURPOSE: To write down the data definition of the struct person, and 
 ;;          to write the function person-image that takes a person as 
@@ -14,7 +17,7 @@
 
 ;;*******************************DATA DEFINITION************************
 
-(define-struct person (first-name last-name age height weight))
+(define-struct person (firstname lastname age height weight))
 ;; A Person is a (make-person String String PosInteger PosReal PosReal)
 ;; It represents an identity and build of a person.
 ;; Interpretation:
